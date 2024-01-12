@@ -34,7 +34,7 @@ body {
 }
 .formInput {
   background: white;
-  width: 45px;
+  width: 50px;
   padding: 5px 5px 8px 8px;  
 }
 .formInput:focus {
