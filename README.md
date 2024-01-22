@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Calculadora de Gorjetas é para avaliar o trabalho feito pelo garçom e realizar o calculo da porcentagem da gorjeta com a quantidade de pessoas que vão pagar a conta.
 
-- [Acesse o projeto finalizado, online](https://kenichi07.github.io/projetoOneBitCode/)
+- [Acesse o projeto finalizado, online](https://kenichi07.github.io/CalculadoraGorjetas/)
 
 ---
 
