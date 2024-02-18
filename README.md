@@ -1,7 +1,7 @@
-<h1 align="center"> Calculadora de Gorjetas </h1>
+<h1 align="center"> Cópia Calculadora de Gorjetas </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela OneBitCode para ensino de tecnologias WEB. <br/>
+Programa exclusivo e gratuito, promovido pela OneBitCode para ensino de tecnologias WEB que eu participei. <br/>
 </p>
 
 <p align="center">
